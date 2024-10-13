@@ -1,5 +1,11 @@
 ## Hello! I am Victor Correa 👻
 
+I am currently a software engineer at [@Smart Fit](https://github.com/bioritmo).
+
+My work profile: [Victor Correa](https://github.com/correa-victor-smartfit)
+
+Living in Sao Paulo
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor1cs/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/victor1cs)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-correa-da-silva-b83a0652/)
@@ -14,5 +20,3 @@
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div> <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor1cs&hide_progress=true)
